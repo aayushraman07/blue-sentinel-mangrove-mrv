@@ -1,0 +1,10 @@
+# run artifacts (checkpoints are ~200 MB each; regenerate by training)
+output_v11/
+__pycache__/
+*.pyc
+*.pt
+*.npz
+*.npy
+.ipynb_checkpoints/
+.DS_Store
+.vscode/

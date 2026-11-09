@@ -1,0 +1,2 @@
+epoch,phase,lr,loss,miou,val_loss,val_miou,change_f1,carbon_mae,hydro_mae,canopy_mae
+1,1,1.000e-04,1.92675,0.3710,387.43379,0.0883,0.0000,6.63726,1.49740,6.04151
